@@ -12,3 +12,4 @@ This is an advanced Go web server that serves dynamic content and interacts with
 
 1. Install Go and set up your [Go workspace](https://golang.org/doc/code.html#Workspaces).
 2. Install the required dependencies by running the following command:
+# go-web-server
